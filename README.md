@@ -1,1 +1,1 @@
-AWS Core Graded Assessment
+AWS Core Graded Assignment
